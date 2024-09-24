@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+table{
+  border: 2px solid rgb(72, 3, 3);
+  border-collapse: collapse;
+  background-color: lightpink;
+  width: 50%;
+  margin: 100px;
+}
+caption{
+  background-color: aqua;
+  font-size: 23px;
+  
+}
+td,th{
+  border: 2px solid rgb(72, 3, 3);
+}
